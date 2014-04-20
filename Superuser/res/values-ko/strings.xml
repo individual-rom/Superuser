@@ -81,6 +81,13 @@
     <string name="apps_only">애플리케이션만</string>
     <string name="adb_only">ADB 만</string>
     <string name="apps_and_adb">애플리케이션과 ADB</string>
+    <string name="whats_new">What\'s New</string>
+    <string name="rate">Rate</string>
+    <string name="theme">테마</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="pin_disabled">슈퍼유저의 pin 보호가 무력화되었습니다.</string>
+    <string name="revoke_permission">슈퍼유저 권한 삭제</string>
+    <string name="details">상세</string>
+    <string name="db_delete_error">이 앱에서 슈퍼유저 권한이 제거되지 못했습니다.\n슈퍼유저를 재실행해서 다시 시도해 주세.</string>
 </resources>
-
-
